@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nnUBt05wzOc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stupid Cat\\Desktop\\TCPTransfer\\TCPTransfer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stupid Cat\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

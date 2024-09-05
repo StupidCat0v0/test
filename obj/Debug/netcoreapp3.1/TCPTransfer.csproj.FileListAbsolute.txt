@@ -1,0 +1,4 @@
+C:\Users\Stupid Cat\Desktop\TCPTransfer\obj\Debug\netcoreapp3.1\TCPTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid Cat\Desktop\TCPTransfer\obj\Debug\netcoreapp3.1\TCPTransfer.AssemblyInfoInputs.cache
+C:\Users\Stupid Cat\Desktop\TCPTransfer\obj\Debug\netcoreapp3.1\TCPTransfer.AssemblyInfo.cs
+C:\Users\Stupid Cat\Desktop\TCPTransfer\obj\Debug\netcoreapp3.1\TCPTransfer.csproj.CoreCompileInputs.cache

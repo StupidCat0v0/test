@@ -1,0 +1,17 @@
+C:\Users\Stupid Cat\Desktop\TCPTransfer\bin\Debug\net8.0\TCPTransfer.exe
+C:\Users\Stupid Cat\Desktop\TCPTransfer\bin\Debug\net8.0\TCPTransfer.deps.json
+C:\Users\Stupid Cat\Desktop\TCPTransfer\bin\Debug\net8.0\TCPTransfer.runtimeconfig.json
+C:\Users\Stupid Cat\Desktop\TCPTransfer\bin\Debug\net8.0\TCPTransfer.dll
+C:\Users\Stupid Cat\Desktop\TCPTransfer\bin\Debug\net8.0\TCPTransfer.pdb
+C:\Users\Stupid Cat\Desktop\TCPTransfer\obj\Debug\net8.0\TCPTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stupid Cat\Desktop\TCPTransfer\obj\Debug\net8.0\TCPTransfer.AssemblyInfoInputs.cache
+C:\Users\Stupid Cat\Desktop\TCPTransfer\obj\Debug\net8.0\TCPTransfer.AssemblyInfo.cs
+C:\Users\Stupid Cat\Desktop\TCPTransfer\obj\Debug\net8.0\TCPTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Stupid Cat\Desktop\TCPTransfer\obj\Debug\net8.0\TCPTransfer.dll
+C:\Users\Stupid Cat\Desktop\TCPTransfer\obj\Debug\net8.0\refint\TCPTransfer.dll
+C:\Users\Stupid Cat\Desktop\TCPTransfer\obj\Debug\net8.0\TCPTransfer.pdb
+C:\Users\Stupid Cat\Desktop\TCPTransfer\obj\Debug\net8.0\TCPTransfer.genruntimeconfig.cache
+C:\Users\Stupid Cat\Desktop\TCPTransfer\obj\Debug\net8.0\ref\TCPTransfer.dll
+C:\Users\Stupid Cat\Desktop\TCPTransfer\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Stupid Cat\Desktop\TCPTransfer\obj\Debug\net8.0\TCPTransfer.csproj.AssemblyReference.cache
+C:\Users\Stupid Cat\Desktop\TCPTransfer\obj\Debug\net8.0\TCPTrans.4A8478D4.Up2Date
